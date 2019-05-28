@@ -1,0 +1,44 @@
+{
+    "productos": [
+      {
+        "id": 2,
+        "nombre": "azucar",
+        "precio": 2000
+      },
+      {
+        "nombre": "chinin",
+        "precio": "800",
+        "id": 3
+      },
+      {
+        "nombre": "chinin",
+        "precio": "8999",
+        "id": 4
+      },
+      {
+        "nombre": "CHINN",
+        "precio": "8000",
+        "id": 5
+      },
+      {
+        "nombre": "panela del cauca",
+        "precio": 2000,
+        "id": 6
+      },
+      {
+        "nombre": "panela del cauca",
+        "precio": 2000,
+        "id": 7
+      },
+      {
+        "nombre": "Pantalla de mac",
+        "precio": "10000",
+        "id": 8
+      },
+      {
+        "nombre": "carro",
+        "precio": "1000000000",
+        "id": 9
+      }
+    ]
+  }
